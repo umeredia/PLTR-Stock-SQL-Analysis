@@ -18,6 +18,6 @@ SQL script files are broken down into the following substructure:
    - Annualized volatility (%)
                                         
 
-6. Highlights of top 5 gap-up events to correlate with socioeconomic news and events
+6. Top 5 Off-Market Increases = Query to highlight the top 5 off market prices increases (Gap-Up) to focus research on stock sensitivity
 
 
