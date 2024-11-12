@@ -1,7 +1,9 @@
 # PLTR-Stock-SQL-Analysis
 Palantir Historical Stock Price and Volatility Analysis using MySQL
 
-The data used for this analysis is sourced from Yahoo Finance data using python to export .csv for use in MySQL. This project aims to analyze risks and advantages for long-term and short-term share holders. Data was stored in two tables; (1) Palantir_Price (date, open, close, trading volume) & (2) Palantir_volatility (date, high, low) 
+The data used for this analysis is sourced from Yahoo Finance data using python to export .csv for use in MySQL. This project aims to analyze risks and advantages for long-term and short-term share holders.
+
+Data was stored in two tables; (1) Palantir_Price (date, open, close, trading volume) & (2) Palantir_volatility (date, high, low) 
 
 SQL script files are broken down into the following substructure:
 
