@@ -12,6 +12,6 @@ group by Year
 -- Order by year descending to show a timeline from most relevant year at the top
 order by Year desc
 
--- Stock price declines in 2022 match S&P 500 trends of overall stock market deccline post-covid
+-- Stock price declines in 2022 match S&P 500 trends of overall stock market decline post-covid
 -- steady growth in 2023 and 2024 suggests positive outlook for holding shares
 -- over 100% growth in price in 2024 indicates further reaseach is required into company news (product release, earnings reports, sector growth, etc.)
