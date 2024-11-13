@@ -9,7 +9,7 @@ SQL script files are broken down into the following substructure:
 
 1. YoY Percent growth = Price analaysis from date of IPO to 2024
   
-2. Monthly trading acivity = Query for trading volume focused on 2024 due to relevancy based on the time period of analysis
+2. Monthly trading activity = Query for changes in average trading volume month-to-month focused on the last 2 years (2023-2024)
   
 3. Yearly ATR and Sentiment = Query to calculate Yearly Average True Range (ATR)) of stock price, yearly open and close prices, and sentiment analysis based on changes over each year
 
